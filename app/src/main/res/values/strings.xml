@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">appBoleto</string>
+    <string-array name="destinos">
+        <item></item>
+        <item>Guadalajara</item>
+        <item>Mazatlan</item>
+        <item>Durango</item>
+        <item>Tepic</item>
+        <item>Guasave</item>
+        <item>CDMX</item>
+        <item>Culiacan</item>
+    </string-array>
+    <string-array name="tipoBoleto">
+        <item></item>
+        <item>Sencillo</item>
+        <item>Doble</item>
+    </string-array>
+</resources>
